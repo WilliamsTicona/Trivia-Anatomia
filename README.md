@@ -4,4 +4,3 @@
 
 #Licencia 
 MIT
-😷
